@@ -9,5 +9,5 @@ export default (arr) => {
 			}
 		}
 	}
-	return arr
+	return arr 
 }
